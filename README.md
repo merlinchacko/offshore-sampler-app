@@ -39,8 +39,8 @@ This project is an **Eclipse Rich Client Platform (RCP)** application designed f
 
 
 ### 4. Run the Application
-- Open the **SampleView** or the main application entry class.
-- Right-click the class and select **Run As > Eclipse Application**.
+- First run offshore-ground-sampler spring boot application
+- Right-click the offshore-sampler-rcp-app and select **Run As > Eclipse Application**.
 - The application will open in a new Eclipse instance.
 
 ---
